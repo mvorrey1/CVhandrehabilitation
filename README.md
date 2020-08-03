@@ -1,5 +1,4 @@
 # CV Hand Rehabilitation
-[View Slides](https://docs.google.com/presentation/d/1jFcfTsS8m2XT5s_D8e6JwlCC6uQVKyI2HKFzDraRDOg/edit#slide=id.p)
 
 ## Installation
     git clone https://github.com/ausaf-a/cvhandrehab.git; 
