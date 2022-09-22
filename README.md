@@ -1,7 +1,8 @@
 # CV Hand Rehabilitation
+[View Slides](https://docs.google.com/presentation/d/1wl-WLzRPH5MabJnPwL1mAtJgxKPcD053ZiJeu-PkCKI/edit?usp=sharing)
 
 ## Installation
-    git clone https://github.com/ausaf-a/cvhandrehab.git; 
+    git clone https://github.com/mvorrey1/HandRehabilitation.git; 
     cd cvhandrehab/;
     python3 -m venv venv; 
     source ./venv/bin/activate; 
